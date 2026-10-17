@@ -642,6 +642,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🗄️ <a name="databases"></a>Databases
 
+- [AgentDiet](https://github.com/robertoyanguas-ops/agentdiet) - Remote HTTP MCP proxy stripping 85-97% of HTML/JSON token bloat (`https://agentdiet-72343955726.us-central1.run.app/mcp`)
 - [CloudCrane](https://cloudcrane.ai) `https://cloudcrane.ai/api/build/mcp`
   [![CloudCrane MCP connector](https://glama.ai/mcp/connectors/ai.cloudcrane/workspace/badges/score.svg)](https://glama.ai/mcp/connectors/ai.cloudcrane/workspace)
   🔐 - Read and build curated catalog data with a receipt on every value; review decisions stay with a person.
@@ -2803,6 +2804,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🔒 <a name="security"></a>Security
 
+- [Assay](https://github.com/robertoyanguas-ops/assay) - Continuous MCP & A2A security observatory (`https://assay-207908449630.us-central1.run.app/mcp`)
 - [Agent Verifier](https://packet.guru/agents/mcp) `https://fp.packet.guru/api/v1/mcp`
   [![Agent Verifier MCP connector](https://glama.ai/mcp/connectors/guru.packet/agent-verifier/badges/score.svg)](https://glama.ai/mcp/connectors/guru.packet/agent-verifier)
   🔓 - Test and debug your AI agent's Web Bot Auth (RFC 9421) signature and see exactly what to fix.
